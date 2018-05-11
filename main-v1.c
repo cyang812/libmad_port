@@ -1,6 +1,10 @@
 #include "mad.h"
 #include <stdio.h>
 
+/*
+ * 将一首 mp3 全部读入内存
+ */
+
 #define mp3_file_path "E:\\test.mp3"
 #define pcm_file_path "E:\\test.pcm"
 
